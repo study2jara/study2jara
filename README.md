@@ -22,7 +22,7 @@ Este repositorio está organizado de la siguiente manera:
 Puedes encontrarme en las siguientes plataformas:
 
 <!-- - 🌐 [Mi página web](#) Reemplaza "#" con el enlace a tu página web -->
-- 🎥 [YouTube](#) <!-- Reemplaza "#" con tu canal -->
+- 🎥 [YouTube](https://youtube.com/@study2engineer?si=NEYbrfruBXfd9EyU) <!-- Reemplaza "#" con tu canal -->
 <!-- - 🐦 [Twitter](#)
 - 💼 [LinkedIn](#)
 - 📸 [Instagram](#) -->
